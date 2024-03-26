@@ -1,20 +1,51 @@
-######               Hi  I'm Mohit Sehrawat
+### Hi there 👋, my name is Dinesh Chandra
+#### I am Full Stack Developer
 
-- I'm a Full Stack Web Developer skilled in Python stack who focuses on writing clean, elegant and efficient code.
-- Currently working at Upwork as a Freelancer Full Stack Developer
+Results-driven Python developer and experience in developing and maintaining web applications using Django, Flask, Falcon, and Dask, Pandas. Proficient in Python, JavaScript, and web technologies, with a strong foundation in data science and machine learning algorithms
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcyadav1619&theme=dark&show_icons=true)
+Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP
+
+- 🔭 I’m currently working in varaisys
+- 🌱 I’m currently learning AI/ML 
+- 👯 I’m looking to collaborate on DJANGO 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dcyadav1619)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dinesh-chandra-45a5051b4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100015155295854)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/cll_me_dc_ydv//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_DINESH_CHANDRA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/dcyadav1619)  
+
+
 
 #### Tech Stack
 
-![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/e565f802-c3f7-4411-b9a8-c8cdee1a41fc) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/62222bd2-d634-4ee9-a73f-73bfb77efd57) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/674528d1-26b6-4539-a00c-a47a035cddf0) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/87c2e79c-a8c0-42d2-abfa-d6a111230453) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/c50f0e21-e33b-435c-b50a-c4194b0d44d4) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/f67618fd-b24b-4bfa-8d50-3edaf9270e66) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/6e2f38cc-6004-4ef1-a8ed-674a362e6004) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/b86ae387-dfe2-4789-9b55-9e4a8e1d2234) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/1031038b-133c-4afb-8677-c061cc681ac3) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/9b0829f9-375d-4e01-9152-d1165c246f44) ![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/a3be8267-8b68-47c2-a9d5-d4870d962c47)
+<p>
+  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django?style=for-the-badge&logo=python&logoColor=#306998"  alt="python"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+  <img alt="Docker Automated build" src="https://img.shields.io/docker/automated/dineshchandra1619/python_django?style=for-the-badge&logo=styled-components&logoColor=white" alt="Docker">
 
 
-#### Let's Connect
-www.linkedin.com/in/dinesh-chandra-45a5051b4
-![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/bb146d77-1093-4cd4-891f-752f5572e5a8)
-![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/2b022086-2d2c-4c00-bb57-ccfaeb354d85)
+</p>
 
-#### Top Repositories
-![image](https://github.com/dcyadav1619/dcyadav1619/assets/90493714/4ea521fa-44d7-447a-9964-2f991676a1b7)
+
+<br />
+
+
+
+**About me**
+
+- 💼 Python Devloper at Varaisys
+
+- ❤️ I love writing Python, Javascript and building fun experiments on Frantend development
+
+- 💬 Ask me about anything [here](https://github.com/dcyadav1619/dcyadav1619/issues)
 
