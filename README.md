@@ -3,7 +3,7 @@
 
 Results-driven Python developer and experience in developing and maintaining web applications using Django, Flask, Falcon, and Dask, Pandas. Proficient in Python, JavaScript, and web technologies, with a strong foundation in data science and machine learning algorithms
 
-Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP
+Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP / MACHINE-LEARNING / SKLEARN / SCIPY / MATPLOTLIB / 
 
 - 🔭 I’m currently working in varaisys
 - 🌱 I’m currently learning AI/ML 
