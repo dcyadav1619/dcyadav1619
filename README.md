@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Dinesh Chandra
 #### I am Full Stack Developer
 
-Results-driven Python developer and experience in developing and maintaining web applications using Django, Flask, Falcon, and Dask, Pandas. Proficient in Python, JavaScript, and web technologies, with a strong foundation in data science and machine learning algorithms
+Results-driven Python developer and experience in developing and maintaining web applications using Django, Flask, Falcon, and Dask, Pandas. Proficient in Python, Java, JavaScript, and web technologies, with a strong foundation in data science and machine learning algorithms
 
-Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP / MACHINE-LEARNING / SKLEARN / SCIPY / MATPLOTLIB / 
+Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP / MACHINE-LEARNING / SKLEARN / SCIPY / MATPLOTLIB / Java/ Spring Framework/ SpringBoot/ ORM/ 
 
 - 🔭 I’m currently working in varaisys
 - 🌱 I’m currently learning AI/ML 
@@ -43,9 +43,11 @@ Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP
 
 **About me**
 
-- 💼 Python Devloper at Varaisys
+-     FullStack Java Developer at Wipro Technologies
+  
+- 💼 Python Devloper at Varaisys 
 
-- ❤️ I love writing Python, Javascript and building fun experiments on Frantend development
+- ❤️ I love writing Python,Java, Javascript and building fun experiments on Frantend development
 
 - 💬 Ask me about anything [here](https://github.com/dcyadav1619/dcyadav1619/issues)
 
