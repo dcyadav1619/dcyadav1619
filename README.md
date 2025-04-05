@@ -5,7 +5,7 @@ Results-driven Python developer and experience in developing and maintaining web
 
 Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP / MACHINE-LEARNING / SKLEARN / SCIPY / MATPLOTLIB / Java/ Spring Framework/ SpringBoot/ ORM/ 
 
-- 🔭 I’m currently working in varaisys
+- 🔭 I’m currently working in Wipro Technologies
 - 🌱 I’m currently learning AI/ML 
 - 👯 I’m looking to collaborate on DJANGO 
 
