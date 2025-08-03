@@ -55,6 +55,14 @@ Skills: JAVA/SPRING-BOOT/SQL/MYSQL/MONGO/PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / R
   
 
 <br />
+ ## **My Information**
+  ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcyadav1619&theme=great-gatsby&show_icons=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcyadav1619&theme=great-gatsby&layout=compact)](https://github.com/https://github.com/dcyadav1619)
+
+  
+  ![Snake animation](https://github.com/dcyadav1619/dcyadav1619/blob/output/github-contribution-grid-snake.svg)
+  
 
 
 
