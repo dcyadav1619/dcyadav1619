@@ -14,9 +14,17 @@ Skills: JAVA/SPRING-BOOT/SQL/MYSQL/MONGO/PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / R
 
 
 
-#### Tech Stack
+#### Tech Stack && Experience
 
 <p>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="Java" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>]
+  <img alt="Java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django?style=for-the-badge&logo=python&logoColor=#306998"  alt="python"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
@@ -35,18 +43,7 @@ Skills: JAVA/SPRING-BOOT/SQL/MYSQL/MONGO/PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / R
 
 
 </p>
-## **CONHECIMENTOS**
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alt="Java" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>]
-<img alt="Java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
  ## **SKILLS**
 <img src="https://user-images.githubusercontent.com/86319074/127417170-dec4634c-c792-424f-bdf2-57581715af4a.gif" alt="java" width="80" height="90" style="max-
