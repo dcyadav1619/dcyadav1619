@@ -3,7 +3,7 @@
 
 Results-driven Python developer and experience in developing and maintaining web applications using Django, Flask, Falcon, and Dask, Pandas. Proficient in Python, Java, JavaScript, and web technologies, with a strong foundation in data science and machine learning algorithms
 
-Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP / MACHINE-LEARNING / SKLEARN / SCIPY / MATPLOTLIB / Java/ Spring Framework/ SpringBoot/ ORM/ 
+Skills: JAVA/SPRING-BOOT/SQL/MYSQL/MONGO/PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP / MACHINE-LEARNING / SKLEARN / SCIPY / MATPLOTLIB / Java/ Spring Framework/ SpringBoot/ ORM/ 
 
 - 🔭 I’m currently working in Wipro Technologies
 - 🌱 I’m currently learning AI/ML 
@@ -35,7 +35,27 @@ Skills: PYTHON/ DJANGO/ FLASK/ PANDAS/ DASK / REACT / JS / HTML / CSS/ BOOTSTRAP
 
 
 </p>
+## **CONHECIMENTOS**
 
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="Java" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>]
+<img alt="Java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+
+ ## **SKILLS**
+<img src="https://user-images.githubusercontent.com/86319074/127417170-dec4634c-c792-424f-bdf2-57581715af4a.gif" alt="java" width="80" height="90" style="max-
+  width:100%;"></img>
+  <img src="https://user-images.githubusercontent.com/86319074/127417329-a64735cf-8db2-49f7-aeb2-5642b8e35814.gif" width="80" height="90" style="max-
+  width:100%;"></img>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="80" height="90" style="max-
+  width:100%;"></img>
+  
 
 <br />
 
